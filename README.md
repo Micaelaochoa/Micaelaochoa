@@ -4,6 +4,7 @@
 - 👀 I’m interested in DATOS 
 - 🌱 I’m currently learning DATA ANALYTICS
 - 📫 How to reach me, in LinkedIN www.linkedin.com/in/micaelastefaniochoa
+- E-mail: micaelastefaniochoa@gmail.com
 
 Me estoy formando como Analista en datos !
 ya que quiero obtener un empleo relacionado. Adquiri conomientos en SQL Server, Power BI, Excel. 
